@@ -1,0 +1,23 @@
+########################
+# vcpkg
+########################
+vcpkg/
+vcpkg_installed/
+buildtrees/
+packages/
+installed/
+
+########################
+# CMake
+########################
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+install_manifest.txt
+
+# If using out-of-source builds
+build/
+cmake-build-*/
+
