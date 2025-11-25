@@ -1,7 +1,7 @@
 A simple File Editor made using C++ and VCPKG and build using CMAKE.
 using the simple Guide from https://www.fltk.org/doc-1.1/editor.html .
 
-AI has been used to Write the remaining Readme file and Comments. and Also with Cmake and VCPKG.
+AI has been used to Write the remaining Readme file and Comments. (Also with Cmake).
 
 # Text Editor
 
